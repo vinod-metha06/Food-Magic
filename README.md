@@ -17,7 +17,7 @@
 #### npm install @react-navigation/native
 #### npm install react-native-screens react-native-safe-area-context 
 
-#### // For Firebase integration we have run below commands and setup remaining thing in firebase console
+####  For Firebase integration we have run below commands and setup remaining thing in firebase console
 
 #### npm @react-native-firebase/app
 #### npm @react-native-firebase/storage
@@ -34,7 +34,7 @@
 
 ### Note:
 
-#### Please Check the "assets/Output_Images" folder for Images of the APP.
+#### Please Check the "ascreenshots" folder for Images of the APP.
 #### This App is perfectly working in Android devices.
 
 
