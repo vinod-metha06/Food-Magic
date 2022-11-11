@@ -1,3 +1,3 @@
 # Food-Magic
 
-##Project Name: Recipe App
+## Project Name: Recipe App
