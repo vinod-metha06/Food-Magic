@@ -2,6 +2,8 @@
 
 ## Project Name: Recipe App
 
+## This is my Second approach with Firebase
+
 ## Team Members:
 
 #### 1. Vinod Metha
@@ -26,11 +28,8 @@
 
 ## Contribution to the Project:
 
-#### 1. Vinod Metha: HomeScreen and Add Recipe screen
-#### 2. Vivek indi: HomeScreen
-#### 3. Vidya K: Details screen
-#### 4. Yash Jain: Splash screen
-#### 5. Umme Tasmiya: Add Recipe screen
+#### 1. Vinod Metha: complete project
+
 
 ### Note:
 
