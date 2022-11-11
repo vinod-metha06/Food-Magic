@@ -54,9 +54,6 @@
 <img src="https://user-images.githubusercontent.com/69311756/201352965-aebe9a43-de0c-4e20-9977-155a101cf038.jpg" width="600">
 
 
-
-<img src="https://user-images.githubusercontent.com/69311756/201352965-aebe9a43-de0c-4e20-9977-155a101cf038.jpg" width="600">
-
 <img src="https://user-images.githubusercontent.com/69311756/201352998-f39e3617-8aa6-43db-b374-12d6a04fa500.jpg" width="600">
 
 <img src="https://user-images.githubusercontent.com/69311756/201353046-7266c7f0-219b-4d62-8257-0aa2cfa5a898.jpg" width="600">
