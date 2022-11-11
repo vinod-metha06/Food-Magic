@@ -41,9 +41,10 @@
 
 ## Outputs:
 
-https://github.com/vinod-metha06/Food-Magic/blob/main/Screenshots/onboard1.jpg
 
 
+
+![onboard1](https://user-images.githubusercontent.com/69311756/201352537-4233d9b8-a50e-48cf-b8a5-db2c53ad0f2b.jpg)
 
 
 
