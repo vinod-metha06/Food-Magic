@@ -41,9 +41,9 @@
 
 ## Outputs:
 
-![splash](https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg)
+![splash](https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg | width=100)
 
-![onboard1](https://user-images.githubusercontent.com/69311756/201352537-4233d9b8-a50e-48cf-b8a5-db2c53ad0f2b.jpg)
+![onboard1](https://user-images.githubusercontent.com/69311756/201352537-4233d9b8-a50e-48cf-b8a5-db2c53ad0f2b.jpg | width=100)
 
 ![onboard2](https://user-images.githubusercontent.com/69311756/201352830-82be9a0b-07ed-4a15-833a-f042ad9bf107.jpg)
 
