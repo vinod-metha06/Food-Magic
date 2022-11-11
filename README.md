@@ -61,7 +61,5 @@
 <img src="https://github.com/vinod-metha06/Food-Magic/blob/main/Screenshots/details2.jpg" width="600">
 
 
-<img src="https://user-images.githubusercontent.com/69311756/201353138-acd68a55-7a96-49c5-b202-403271b2a547.jpg" width="600">
-
 <img src="https://user-images.githubusercontent.com/69311756/201353190-343ac8d6-b009-465d-bfcf-a24849389096.jpg" width="600">
 
