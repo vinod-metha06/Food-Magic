@@ -42,6 +42,7 @@
 ## Outputs:
 
 ![splash](https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg" width="600">
 
 ![onboard1](https://user-images.githubusercontent.com/69311756/201352537-4233d9b8-a50e-48cf-b8a5-db2c53ad0f2b.jpg | width=100)
 
