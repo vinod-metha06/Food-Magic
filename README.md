@@ -53,7 +53,7 @@
 
 <img src="https://user-images.githubusercontent.com/69311756/201352965-aebe9a43-de0c-4e20-9977-155a101cf038.jpg" width="600">
 
-<img src="https://user-images.githubusercontent.com/69311756/201352965-aebe9a43-de0c-4e20-9977-155a101cf038.jpg" width="600">
+
 
 <img src="https://user-images.githubusercontent.com/69311756/201352965-aebe9a43-de0c-4e20-9977-155a101cf038.jpg" width="600">
 
@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/69311756/201353046-7266c7f0-219b-4d62-8257-0aa2cfa5a898.jpg" width="600">
 
-<img src="https://user-images.githubusercontent.com/69311756/201353046-7266c7f0-219b-4d62-8257-0aa2cfa5a898.jpg" width="600">
+<img src="https://github.com/vinod-metha06/Food-Magic/blob/main/Screenshots/details2.jpg" width="600">
 
 <img src="https://user-images.githubusercontent.com/69311756/201353073-fc11ce1f-03ba-4963-b72f-09b4e07a2088.jpg" width="600">
 
