@@ -43,7 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg" width="600">
 
-<img src="https://user-images.githubusercontent.com/69311756/201352888-30313b5a-8894-43e2-9a9c-535fb425f101.jpg" width="600">
+<img src="https://github.com/vinod-metha06/Food-Magic/blob/main/Screenshots/onboard1.jpg" width="600">
 
 <img src="https://user-images.githubusercontent.com/69311756/201352830-82be9a0b-07ed-4a15-833a-f042ad9bf107.jpg" width="600">
 
